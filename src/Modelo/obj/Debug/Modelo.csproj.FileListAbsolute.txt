@@ -1,0 +1,10 @@
+C:\Users\PC3\documents\visual studio 2015\Projects\ControleDeEstoque\src\Modelo\bin\Debug\Modelo.dll
+C:\Users\PC3\documents\visual studio 2015\Projects\ControleDeEstoque\src\Modelo\bin\Debug\Modelo.pdb
+C:\Users\PC3\documents\visual studio 2015\Projects\ControleDeEstoque\src\Modelo\obj\Debug\Modelo.dll
+C:\Users\PC3\documents\visual studio 2015\Projects\ControleDeEstoque\src\Modelo\obj\Debug\Modelo.pdb
+C:\Users\PC3\Documents\Visual Studio 2015\Projects\ControleDeEstoque\src\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\PC1\Documents\Visual Studio 2015\Projects\ControleDeEstoque\src\Modelo\bin\Debug\Modelo.dll
+C:\Users\PC1\Documents\Visual Studio 2015\Projects\ControleDeEstoque\src\Modelo\bin\Debug\Modelo.pdb
+C:\Users\PC1\Documents\Visual Studio 2015\Projects\ControleDeEstoque\src\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\PC1\Documents\Visual Studio 2015\Projects\ControleDeEstoque\src\Modelo\obj\Debug\Modelo.dll
+C:\Users\PC1\Documents\Visual Studio 2015\Projects\ControleDeEstoque\src\Modelo\obj\Debug\Modelo.pdb
